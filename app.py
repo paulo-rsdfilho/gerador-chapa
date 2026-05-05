@@ -3,7 +3,7 @@ import ezdxf
 from io import BytesIO, TextIOWrapper
 import requests
 
-URL_STATUS = "COLE_AQUI_DEPOIS"
+URL_STATUS = "https://raw.githubusercontent.com/paulo-rsdfilho/controle-app/refs/heads/main/status.json"
 
 def verificar_acesso():
     try:
