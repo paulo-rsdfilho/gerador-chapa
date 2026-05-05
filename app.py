@@ -30,7 +30,7 @@ st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 # =========================
 # CONFIG BLOQUEIO REMOTO
 # =========================
-URL_STATUS = "COLE_AQUI_SEU_LINK_RAW"
+URL_STATUS = "https://raw.githubusercontent.com/paulo-rsdfilho/controle-app/refs/heads/main/status.json"
 
 def verificar_acesso():
     try:
