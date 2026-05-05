@@ -100,5 +100,5 @@ st.download_button("📥 Baixar DXF", dxf, "chapa.dxf")
 # =========================
 # AUTO ATUALIZAÇÃO (10s)
 # =========================
-time.sleep(10)
+time.sleep(5)
 st.rerun()
