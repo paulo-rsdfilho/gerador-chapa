@@ -8,7 +8,7 @@ import time
 # CONFIG DA PÁGINA (remove menu)
 # =========================
 st.set_page_config(
-    page_title="Gerador de Chapa",
+    page_title="Gerador de Chapa do Trilho Redondo",
     layout="centered",
     menu_items={
         'Get Help': None,
